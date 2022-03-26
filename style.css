@@ -1,0 +1,76 @@
+body{
+    width: 100%;
+    background-color: #72A0C1;
+    text-transform: capitalize;
+}
+
+
+
+.bs-example  div[class^="col"] {
+    border: 1px solid white;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray;
+    background-color: #367588;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    }
+
+
+.row{
+    justify-content: center;
+    border-radius: 20px;
+    padding: 10px;
+    
+    
+   
+}
+h1{
+    color: #002244;
+    font-size: 60px;
+    background: #d4e4f1;
+    border-radius: 30px;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray;
+    text-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray;
+    font-family: 'Nanum Myeongjo', serif;
+font-family: 'Overlock', cursive;
+
+}
+.col-sm-5{
+   
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray;
+   
+}
+
+
+#calcu{
+    width: 300px;
+    color: chocolate;
+    background-color: darkslategray;
+    height: 50px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray, 0 0 100px #d4e4f1;
+}
+
+
+#clear{
+    width: 100px;
+    background-color: brown;
+    border-radius: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: cornsilk;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray;
+}
+
+input{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    color: cornsilk;
+    background-color: #8DA399;
+    font-size: 20px;
+    box-shadow: 0 0 5px darkslategray, 0 0 25px darkslategray, 0 0 100px #d4e4f1;
+}
